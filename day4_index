@@ -8,3 +8,5 @@ day4  순서
 6. StarPrint.java
 7. SumTest.java
 8. 3개 정수 중 최대값 구하는 연습문제 : MaxValueEx.java
+
+*객체는 필드로 데이터를 저장하고 , 메소드는 그 데이터를 대상으로 뭔가 기능을 싫행하빈다.
